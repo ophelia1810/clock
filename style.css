@@ -170,3 +170,11 @@ body {
     opacity: 0;
   }
 }
+#name {
+  position: absolute;
+  bottom: 10px;
+  font-size: 1em;
+  font-weight: 600;
+  color: #2cbaac;
+  z-index: 999;
+}
